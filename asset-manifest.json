@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flyo-dark-theme-landing-page/static/css/main.4d996d13.css",
+    "main.js": "/flyo-dark-theme-landing-page/static/js/main.789806ed.js",
+    "static/js/787.7269f63e.chunk.js": "/flyo-dark-theme-landing-page/static/js/787.7269f63e.chunk.js",
+    "index.html": "/flyo-dark-theme-landing-page/index.html",
+    "main.4d996d13.css.map": "/flyo-dark-theme-landing-page/static/css/main.4d996d13.css.map",
+    "main.789806ed.js.map": "/flyo-dark-theme-landing-page/static/js/main.789806ed.js.map",
+    "787.7269f63e.chunk.js.map": "/flyo-dark-theme-landing-page/static/js/787.7269f63e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d996d13.css",
+    "static/js/main.789806ed.js"
+  ]
+}
