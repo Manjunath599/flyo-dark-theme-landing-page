@@ -1,5 +1,9 @@
 import React from "react";
-
+import iconAccess from "../images/icon-access-anywhere.svg"
+import security from "../images/icon-security.svg"
+import collab from "../images/icon-collaboration.svg"
+import file from "../images/icon-any-file.svg"
+ 
 
 export default function Main() {
     return (
@@ -17,7 +21,7 @@ export default function Main() {
             <!-- First-2-icons --> */}
             <div className="mt-24 lg:flex ">
                 <div className="flex flex-col justify-center items-center ">
-                    <img src="/images/icon-access-anywhere.svg" alt="" />
+                    <img src={iconAccess} alt="" />
                     <h2 className="font-bold text-lg mt-8 mb-3"> Access your files, anywhere</h2>
                     <p className="lg:px-48">
                         The ability to use a smartphone, tablet, or computer to access your account means your
@@ -25,7 +29,7 @@ export default function Main() {
                     </p>
                 </div>
                 <div className="flex flex-col justify-center items-center mt-24 lg:mt-auto">
-                    <img src="/images/icon-security.svg" alt="" />
+                    <img src={security} alt="" />
                     <h2 className="font-bold text-lg mt-8 mb-3">Security you can trust</h2>
                     <p className="lg:px-48">2-factor authentication and user-controlled encryption are just a couple of the security features we
                         allow to help secure your files.</p>
@@ -34,7 +38,7 @@ export default function Main() {
             {/* <!-- Next 2 icons --> */}
             <div className="mt-24 lg:flex">
                 <div className="flex flex-col justify-center items-center ">
-                    <img src="/images/icon-collaboration.svg" alt="" />
+                    <img src={collab} alt="" />
                     <h2 className="font-bold text-lg mt-8 mb-3">Real-time collaboration</h2>
                     <p className="lg:px-48">
                         Securely share files and folders with friends, family and colleagues for live collaboration.
@@ -42,7 +46,7 @@ export default function Main() {
                     </p>
                 </div>
                 <div className="flex flex-col justify-center items-center mt-24 lg:mt-auto">
-                    <img src="/images/icon-any-file.svg" alt="" />
+                    <img src={file} alt="" />
                     <h2 className="font-bold text-lg mt-8 mb-3">Store any type of file</h2>
                     <p className="lg:px-48">Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all
                         file types to be securely stored and shared.</p>
