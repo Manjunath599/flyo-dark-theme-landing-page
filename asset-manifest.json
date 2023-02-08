@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/flyo-dark-theme-landing-page/static/css/main.4d996d13.css",
-    "main.js": "/flyo-dark-theme-landing-page/static/js/main.789806ed.js",
+    "main.css": "/flyo-dark-theme-landing-page/static/css/main.d137c3c0.css",
+    "main.js": "/flyo-dark-theme-landing-page/static/js/main.aa81117b.js",
     "static/js/787.7269f63e.chunk.js": "/flyo-dark-theme-landing-page/static/js/787.7269f63e.chunk.js",
+    "static/media/illustration-intro.png": "/flyo-dark-theme-landing-page/static/media/illustration-intro.c20d85255009f195b4a6.png",
+    "static/media/illustration-stay-productive.png": "/flyo-dark-theme-landing-page/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
+    "static/media/icon-collaboration.svg": "/flyo-dark-theme-landing-page/static/media/icon-collaboration.6c80c0a4c84274f029eb51c36f603765.svg",
+    "static/media/logo.svg": "/flyo-dark-theme-landing-page/static/media/logo.f5363383bf279490c4aba63ca2917a80.svg",
+    "static/media/icon-access-anywhere.svg": "/flyo-dark-theme-landing-page/static/media/icon-access-anywhere.2856c661b15230024a11eb4b089dd3f1.svg",
+    "static/media/icon-any-file.svg": "/flyo-dark-theme-landing-page/static/media/icon-any-file.fc9b91ba9923102f3aa45c19bc3244e6.svg",
+    "static/media/icon-security.svg": "/flyo-dark-theme-landing-page/static/media/icon-security.b6a932b6269cf10d3339e0a3d22c8b4e.svg",
     "index.html": "/flyo-dark-theme-landing-page/index.html",
-    "main.4d996d13.css.map": "/flyo-dark-theme-landing-page/static/css/main.4d996d13.css.map",
-    "main.789806ed.js.map": "/flyo-dark-theme-landing-page/static/js/main.789806ed.js.map",
+    "static/media/icon-arrow.svg": "/flyo-dark-theme-landing-page/static/media/icon-arrow.2491a46a96689783ec3c96bfb90aa30c.svg",
+    "static/media/bg-curvy-mobile.svg": "/flyo-dark-theme-landing-page/static/media/bg-curvy-mobile.3ab5d2c7091bda722a7b84824c5a0ce9.svg",
+    "static/media/icon-phone.svg": "/flyo-dark-theme-landing-page/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/flyo-dark-theme-landing-page/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/flyo-dark-theme-landing-page/static/media/icon-email.201ea9e2e87effbe720d0f8b77fba022.svg",
+    "main.d137c3c0.css.map": "/flyo-dark-theme-landing-page/static/css/main.d137c3c0.css.map",
+    "main.aa81117b.js.map": "/flyo-dark-theme-landing-page/static/js/main.aa81117b.js.map",
     "787.7269f63e.chunk.js.map": "/flyo-dark-theme-landing-page/static/js/787.7269f63e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d996d13.css",
-    "static/js/main.789806ed.js"
+    "static/css/main.d137c3c0.css",
+    "static/js/main.aa81117b.js"
   ]
 }
